@@ -1,6 +1,6 @@
 ---
 title: "Awesome Page"
-date: "2019-09-25:
+date: 2019-09-25
 ---
 
 # Awesome page for awsome blog
