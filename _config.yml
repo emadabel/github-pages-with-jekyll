@@ -9,4 +9,4 @@ twitter_username: emadabel
 github_username:  emadabel
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-slate
